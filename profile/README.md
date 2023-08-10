@@ -1,12 +1,16 @@
-## Hi there 👋
+# _HImedia Java FullStack Development_
+>스마트웹 모바일 서비스를 위한 클라우드 기반의 MSA 풀스택 자바 개발자 (6회차)
 
-<!--
+&nbsp; 
 
-**Here are some ideas to get you started:**
+### 🎉 팀 : JavaJo 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+&nbsp; 
+
+## 🔎 Project Sources
+
+| Chapter | Repository |
+| ------ | ------ |
+| 계산기 만들기(자바기초) | [첫 프로젝트](https://github.com/javaJo-organization/solveNumber.git) |
+ 
+ 
