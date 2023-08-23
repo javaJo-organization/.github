@@ -12,5 +12,6 @@
 | Chapter | Repository |
 | ------ | ------ |
 | 계산기 만들기(자바기초) | [첫 프로젝트](https://github.com/javaJo-organization/solveNumber.git) |
- 
+| 자바연습1 | [두번째 프로젝트](https://github.com/javaJoorganization/chap09_Polymorphism_Homework_javaJo.git) |
+| 자바연습2 | [세번째 프로젝트](https://github.com/javaJo-organization/chap12-collection-practice-source-master.git) |
  
